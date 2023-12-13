@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shraddhatiwari96
-- 👀 I’m interested in web development
+- 👀 I’m interested in front end development
 - 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on github platform
 - 📫 Reach me by mail- ershraddhatiwari@gmail.com
